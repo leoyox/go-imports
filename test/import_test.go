@@ -1,7 +1,7 @@
 /*
  * @Author: leoking
  * @Date: 2022-07-28 15:28:56
- * @LastEditTime: 2022-07-28 17:06:57
+ * @LastEditTime: 2022-07-28 17:09:25
  * @LastEditors: your name
  * @Description:
  */
@@ -10,7 +10,7 @@ package test
 import (
 	"testing"
 
-	sc "submodule_c"
+	sc "github.com/leoyox/go-imports/submodule_c"
 
 	sb "github.com/leoyox/go-imports/submodule_b"
 )
