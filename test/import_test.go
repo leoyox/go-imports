@@ -10,7 +10,7 @@ package test
 import (
 	"testing"
 
-	base "git.leoking.pve/test/go-imports/submodule_a/utils"
+	base "github.com/leoyox/go-imports/submodule_a"
 )
 
 func TestModulex(t *testing.T) {

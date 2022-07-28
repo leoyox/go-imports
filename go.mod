@@ -1,4 +1,4 @@
-module git.leoking.pve/test/go-imports
+module github.com/leoyox/go-imports
 
 go 1.16
 
