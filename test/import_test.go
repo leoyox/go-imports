@@ -1,7 +1,7 @@
 /*
  * @Author: leoking
  * @Date: 2022-07-28 15:28:56
- * @LastEditTime: 2022-07-28 16:52:58
+ * @LastEditTime: 2022-07-28 17:06:57
  * @LastEditors: your name
  * @Description:
  */
@@ -10,9 +10,9 @@ package test
 import (
 	"testing"
 
-	sb "github.com/leoyox/go-imports/submodule_b"
+	sc "submodule_c"
 
-	sc "github.com/leoyox/go-imports/submodule_c"
+	sb "github.com/leoyox/go-imports/submodule_b"
 )
 
 func TestSubmoduleC(t *testing.T) {
