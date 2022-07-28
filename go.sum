@@ -1,0 +1,4 @@
+github.com/leoyox/go-imports/submodule_b v0.0.0-20220728090748-e47c8b30217f h1:y+bsVVsaHBiOSarYYbNMasqXn5Jf39tzmeZUFgQBZ1Q=
+github.com/leoyox/go-imports/submodule_b v0.0.0-20220728090748-e47c8b30217f/go.mod h1:7d7OCG7EpQAf9qT8pPjinOlPMxydQ9m372GHpaw8vyQ=
+github.com/leoyox/go-imports/submodule_c v0.0.0-20220728090748-e47c8b30217f h1:552nLXD8A1K6VurjnH0RuNyHA4wTOodyC+Nnn0eQ8kA=
+github.com/leoyox/go-imports/submodule_c v0.0.0-20220728090748-e47c8b30217f/go.mod h1:DyYP1FIdJ0+V0RlzN8SeJ5FRjMfKYPK8O18ENRcudk8=
